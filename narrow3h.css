@@ -1,0 +1,29 @@
+body	{
+	font: Arial, sans-serif;  
+	}
+p, th, td {
+	font: .7em Arial, sans-serif;
+	}
+#LinksMenu
+	{
+	margin-left:+4.00em;
+	}
+.leftBlock {
+	display: none;
+	}
+h1 {
+	font: 3em Garamond, serif; color: lightgreen; 
+	}
+h2 {
+	font: 2em Garamond, serif; color: lightgreen; 
+	}
+.two {
+	font: bold 1.5em Arial, sans-serif; color: green; 
+	}
+.three {
+	font: bold 1.5em Garamond, serif; color: red; 
+	}
+.four {
+	font: bold 1.5em Garamond, serif;
+	}
+

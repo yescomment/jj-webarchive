@@ -1,0 +1,19 @@
+body	{
+	font: 1em/1.1em Garamond, serif;
+	}
+.leftBlock {
+	display: none;
+	}
+h1 {
+	font: 3em Garamond, serif; color: lightgreen; 
+	}
+.two {
+	font: bold 1.5em Arial, sans-serif; color: green; 
+	}
+.three {
+	font: bold 1.5em Garamond, serif; color: red; 
+	}
+.four {
+	font: bold 1.5em Garamond, serif;
+	}
+

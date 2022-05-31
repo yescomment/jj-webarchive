@@ -1,0 +1,9 @@
+[21-Sep-2020 16:55:27 UTC] PHP Notice:  Undefined variable: canal in /home/erwi8zsschpc/public_html/images/blt10302_old.php on line 43
+[21-Sep-2020 16:55:27 UTC] PHP Notice:  Undefined variable: gong in /home/erwi8zsschpc/public_html/images/blt10302_old.php on line 43
+[21-Sep-2020 16:55:27 UTC] PHP Notice:  Undefined variable: inductances in /home/erwi8zsschpc/public_html/images/blt10302_old.php on line 43
+[21-Sep-2020 16:55:27 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/erwi8zsschpc/public_html/images/blt10302_old.php(43) : runtime-created function on line 1
+[21-Sep-2020 16:55:27 UTC] PHP Notice:  Undefined variable: chariot in /home/erwi8zsschpc/public_html/images/blt10302_old_bck_old.php on line 33
+[21-Sep-2020 16:55:27 UTC] PHP Notice:  Undefined variable: lesly in /home/erwi8zsschpc/public_html/images/blt10302_old_bck_old.php on line 35
+[21-Sep-2020 16:55:27 UTC] PHP Notice:  Undefined variable: awhile in /home/erwi8zsschpc/public_html/images/blt10302_old_bck_old.php on line 35
+[21-Sep-2020 16:55:27 UTC] PHP Notice:  Undefined variable: bullhead in /home/erwi8zsschpc/public_html/images/blt10302_old_bck_old.php on line 37
+[21-Sep-2020 16:55:27 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/erwi8zsschpc/public_html/images/blt10302_old_bck_old.php(33) : runtime-created function on line 1

@@ -1,0 +1,15 @@
+body  {cursor:url("Arrow.green.screen.cur"); scrollbar-base-color: #99EE99 ;} 
+body, th, td  {font-size: small; font-family: Georgia, Times, 'Times Roman', serif; }
+
+A:link  {font-family: verbana,arial,helvetica,sans-serif, "Tempus Sans ITC", serif; 
+ text-decoration: none; color: blue; font-weight: bold; }
+
+A:active  {font-family: verbana,arial,helvetica,sans-serif, "Tempus Sans ITC", serif; 
+ text-decoration: none; color: red; font-weight: bold; }
+
+A:visited  {font-family: verbana,arial,helvetica,sans-serif, "Tempus Sans ITC", serif;
+ text-decoration: none; color: blue; font-weight: bold; }
+
+A {cursor:url("Hand.green.cur"); font-decoration:none; }
+ 
+A:hover  {background-color: yellow; text-decoration: none; color: green; }<! hover was underline overline changed 30 May 2020 --> 

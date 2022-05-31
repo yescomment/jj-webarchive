@@ -1,0 +1,58 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="letterPaper" gridspacingx="49152" gridspacingy="49152">
+  <p:master id="3" slidesn="1CB366F,31B47190" type="main" href="master03.htm"
+   xmlhref="master03.xml" template="Office Theme" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#000000,#FFFFFF,#1F497D,#EEECE1,#4F81BD,#C0504D,#0000FF,#800080"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="2" slidesn="1CB3674,29C47C00" type="handout" href="master02.htm"
+   layout="handout" slots="header,dateTime,footer,slideNumber"/>
+  <p:slide id="1" slidesn="1CB366F,31BB013F" href="slide0001.htm"/>
+  <p:slide id="2" slidesn="1CB366F,31BB013F" href="slide0002.htm"/>
+  <p:slide id="3" slidesn="1CB366F,31BB013F" href="slide0003.htm"/>
+  <p:slide id="4" slidesn="1CB366F,31BB013F" href="slide0004.htm"/>
+  <p:slide id="6" slidesn="1CB366F,31BB013F" href="slide0006.htm"/>
+  <p:slide id="7" slidesn="1CB366F,31BB013F" href="slide0007.htm"/>
+  <p:slide id="8" slidesn="1CB366F,31BB013F" href="slide0008.htm"/>
+  <p:slide id="9" slidesn="1CB366F,31BB013F" href="slide0009.htm"/>
+  <p:slide id="11" slidesn="1CB366F,31BB013F" href="slide0011.htm"/>
+  <p:slide id="12" slidesn="1CB366F,31BB013F" href="slide0012.htm"/>
+  <p:slide id="13" slidesn="1CB366F,31BB013F" href="slide0013.htm"/>
+  <p:slide id="14" slidesn="1CB366F,31BB013F" href="slide0014.htm"/>
+  <p:slide id="23" slidesn="1CB366F,31BB013F" href="slide0023.htm"/>
+  <p:slide id="16" slidesn="1CB366F,31BB013F" href="slide0016.htm"/>
+  <p:slide id="17" slidesn="1CB366F,31BB013F" href="slide0017.htm"/>
+  <p:slide id="19" slidesn="1CB366F,31BB013F" href="slide0019.htm"/>
+  <p:slide id="24" slidesn="1CB366F,31BB013F" href="slide0024.htm"/>
+  <p:slide id="20" slidesn="1CB366F,31BB013F" href="slide0020.htm"/>
+  <p:slide id="21" slidesn="1CB366F,31BB013F" href="slide0021.htm"/>
+  <p:slide id="25" slidesn="1CB366F,31BB013F" href="slide0025.htm"/>
+  <p:slide id="18" slidesn="1CB366F,31BB013F" href="slide0018.htm"/>
+  <p:slide id="26" slidesn="1CB366F,31BB013F" href="slide0026.htm"/>
+  <p:slide id="22" slidesn="1CB366F,31BB013F" href="slide0022.htm"/>
+  <p:slide id="15" slidesn="1CB366F,31BB013F" href="slide0015.htm"/>
+  <p:printoptions printwhat="handouts6" frameslides="1"/>
+  <p:viewstate type="slideView" slidehref="slide0015.htm" nosnaptogrid="t"
+   snaptoshape="t" restoredleft="156" restoredtop="946" hideoutlineicons="t"/>
+  <p:slideshowsettings pencolor="schemeText" restarttime="2147483648" loop="t"/>
+  <p:tag name="___PPT12" type="binary" datasize="9" dataoffset="0"/>
+  <p:font name="Arial" charset="0" type="4"/>
+  <p:font name="ＭＳ Ｐゴシック" charset="128" type="4"/>
+  <p:font name="Calibri" charset="0" type="4"/>
+  <p:headersfooters formatid="0" nouserdate="t" nofooter="t" noheader="t"
+   nodate="t" todaydate="t"/>
+  <p:headersfooters notes="t" formatid="0" nouserdate="t" nofooter="t"
+   noheader="t" nodate="t" todaydate="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="38926">
+  <o:colormru v:ext="edit" colors="#5800ff"/>
+  <o:colormenu v:ext="edit" shadowcolor="black"/>
+ </o:shapedefaults></xml>

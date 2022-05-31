@@ -1,0 +1,26 @@
+body  {cursor:url("Arrow.green.screen.cur"); scrollbar-base-color: #33cc33 ;} 
+body th, td  {font-size: small; font-family: Georgia, Times, 'Times Roman', serif; }
+H1   {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: green; font-size: 28pt; }
+H2   {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: green; font-size: 12pt; }
+H3   {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: green; font-size: 16pt; }
+b   {font-family: "Tempus Sans ITC", cursive; color: green; }
+A:link  {font-family: verbana,arial,helvetica,sans-serif, "Tempus Sans ITC", cursive; 
+ text-decoration: none; color: blue; font-weight: bold; }
+A:active  {font-family: verbana,arial,helvetica,sans-serif, "Tempus Sans ITC", cursive; 
+ text-decoration: none; color: red; font-weight: bold; }
+A:visited  {font-family: verbana,arial,helvetica,sans-serif, "Tempus Sans ITC", cursive;
+ text-decoration: none; color: blue; font-weight: bold; }
+A {cursor:url("Hand.green.cur"); font-decoration:none; }
+.menu2  {font-family: verbana,arial,helvetica,sans-serif; font-weight: bold; color: blue; font-size: 11pt; }
+.menuhome  {font-family: verbana,arial,helvetica,sans-serif; font-weight: bold; color: red; font-size: 11pt; }
+.small-link  {font-family: verbana,arial,helvetica,sans-serif; font-weight: bold; color: red; font-size: 10pt;
+ text-decoration: underline; color: blue; font-weight: normal; }
+A:hover  {background-color: yellow; text-decoration: underline overline; color: green; }
+.plain  {font-family: tahoma,verbana,arial,helvetica, sans-serif; color: black; font-size: 12pt; }
+.plain9  {font-family: tahoma,verbana,arial,helvetica, sans-serif; color: black; font-size: 10pt; }
+.head24  {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: white; font-size: 28pt; }
+.head21  {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: white; font-size: 24pt; }
+.head18  {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: white; font-size: 21pt; }
+.head24G  {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: green; font-size: 28pt; }
+.head18G  {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: green; font-size: 21pt; }
+.head14G  {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", cursive; color: green; font-size: 18pt; }

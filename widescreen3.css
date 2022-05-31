@@ -1,0 +1,14 @@
+
+body {font-size: XX-small; font-family: Arial, sans-serif; }
+.leftBlock {
+	display: block;
+	}
+th, td  {
+	font-size: small; font-family: Georgia, Times, 'Times Roman', serif; 
+	}
+
+H1   {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", serif; color: green; font-size: 24pt; }
+H2   {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", serif; color: green; font-size: 18pt; }
+H3   {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", serif; color: green; font-size: 14pt; }
+H4   {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", serif; color: green; font-size: 12pt; }
+H5   {font-family: "Lucida Handwriting Italic","Tempus Sans ITC", serif; color: green; font-size: 10pt; }

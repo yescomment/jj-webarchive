@@ -1,0 +1,33 @@
+/* This is narrow4.css, based on 3H, second version,  edited verbatim Jan 25 2021 */
+
+body	{
+	font: 1em Arial, sans-serif;  
+	}
+p, th, td {
+	font: .7em Arial, sans-serif;
+	}
+#LinksMenu
+	{
+	margin-left:+4.00em;
+	}
+.leftBlock {
+	display: none;
+	}
+h1 {
+	font: 3em Garamond, serif; color: lightgreen; 
+	}
+h2 {
+	font: 2em Garamond, serif; color: lightgreen; 
+	}
+.two {
+	font: bold 1.5em Arial, sans-serif; color: green; 
+	}
+.three {
+	font: bold 1.5em Garamond, serif; color: red; 
+	}
+.four {
+	font: bold 1.2em Garamond, serif;
+	}
+.five {
+	font: bold 1em Garamond, serif;
+	}

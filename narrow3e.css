@@ -1,0 +1,26 @@
+body	{
+	font: xxsmall Arial, sans-serif; text-wrap: 400px; 
+	}
+	
+p, th, td {
+	overflow-wrap: break-word ; text-wrap: 400px;
+	}
+.leftBlock {
+	display: none;
+	}
+h1 {
+	font: 3em Garamond, serif; color: lightgreen; 
+	}
+h2 {
+	font: 2em Garamond, serif; color: lightgreen; 
+	}
+.two {
+	font: bold 1.5em Arial, sans-serif; color: green; 
+	}
+.three {
+	font: bold 1.5em Garamond, serif; color: red; 
+	}
+.four {
+	font: bold 1.5em Garamond, serif;
+	}
+

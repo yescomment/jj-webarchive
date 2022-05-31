@@ -1,0 +1,20 @@
+H1 
+	{
+	font: italic 3em Garamnond, sans-serif; color: lightgreen;
+	}
+
+body	{
+	font: 1.1em/1.2em Garamond, serif;
+	}
+.leftBlock {
+	display: block;
+	}
+.two {
+	font: bold 1.5em font-family: "Lucida Handwriting Italic","Tempus Sans ITC", serif; color: green; 
+	}
+.three {
+	font: bold 1.5em Garamond, serif; color: red; 
+	}
+.four {
+	font: bold 1.3em Garamond, serif;
+	}

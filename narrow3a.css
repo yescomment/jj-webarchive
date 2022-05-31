@@ -1,0 +1,23 @@
+body	{
+	font: 0.8em/1em Arial, sans-serif; word-wrap: break-word ; 
+	}
+	
+p, th, td {
+	word-wrap: break-word ; 
+	}
+.leftBlock {
+	display: none;
+	}
+h1 {
+	font: 3em Garamond, serif; color: lightgreen; 
+	}
+.two {
+	font: bold 1.5em Arial, sans-serif; color: green; 
+	}
+.three {
+	font: bold 1.5em Garamond, serif; color: red; 
+	}
+.four {
+	font: bold 1.5em Garamond, serif;
+	}
+
